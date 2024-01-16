@@ -1,0 +1,4 @@
+name = "CDT"
+uuid = "f5ead696-c240-4182-9ebe-b10f142060c9"
+authors = ["Nemo <nemo@debian>"]
+version = "0.1.0"
